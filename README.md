@@ -1,2 +1,2 @@
 # fylo
-https://mirakleddev.github.io/fylo/index.html
+https://mimiicodes.github.io/fylo/index.html
